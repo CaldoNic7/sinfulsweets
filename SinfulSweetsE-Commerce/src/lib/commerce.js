@@ -3,3 +3,4 @@ import KEYS from '../keyConfig'
 
 export const commerce = new Commerce(KEYS.chec)
 
+console.log(KEYS)
