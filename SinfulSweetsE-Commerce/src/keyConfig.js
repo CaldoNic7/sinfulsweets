@@ -1,7 +1,7 @@
 // keyConfig chooses between three sets of keys depending on the hostname (local host or the live website) and a variable i change manually in order to switch between the live site server and my project server. This allows me to use this site as a project without interfering with  my clients business. 
 
 let KEYS
-let project = true
+let project = false
 
 // Jessica's commercejs.com and stripe.com accounts sandbox keys for development. 
 const devKeys = {
